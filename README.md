@@ -19,7 +19,7 @@ I'm a Rahul, I am aspiring  Web Developer &amp; love to do coding.I have been wo
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-32999)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-wed/)
 
 
 
