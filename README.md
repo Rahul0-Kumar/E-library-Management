@@ -1,5 +1,5 @@
 # E-library-Management
-Using .Net Farmwork and SQL  sever work Database
+Using .Net Farmework and SQL  sever work Database
 
 ## Features
 
