@@ -11,7 +11,7 @@ Using .Net Farmework and SQL  sever work Database
 - Publisher  Manager
 - Allow to publish books
 - Add books
-- etc.. 
+- etc... 
 
 ## 🚀 About Me
 I'm a web developer ...
